@@ -4,3 +4,4 @@ rencana konten
   - ambil gambar
 - membuat lagu
 - membuat php
+- struktur data
