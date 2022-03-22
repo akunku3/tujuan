@@ -2,6 +2,8 @@ rencana konten
 -membuat vidio
   - teg vidio
   - ambil gambar
+  - nambah lagu
 - membuat lagu
+  - ekstrak lagu
 - membuat php
 - struktur data
