@@ -1,7 +1,7 @@
 rencana konten
 -membuat vidio
-  - teg vidio
-  - ambil gambar
+  - teg gambar
+  - ambil lagu
 - membuat lagu
-- membuat php
+  - gaya lagu
 - struktur data
