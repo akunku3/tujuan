@@ -1,0 +1,6 @@
+rencana konten
+-membuat vidio
+  - teg vidio
+  - ambil gambar
+- membuat lagu
+- membuat php
