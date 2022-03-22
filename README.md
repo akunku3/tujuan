@@ -1,0 +1,2 @@
+# tujuan
+repositori rencana hidup
